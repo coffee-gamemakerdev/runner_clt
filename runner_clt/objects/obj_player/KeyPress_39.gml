@@ -1,0 +1,2 @@
+x = xstart;
+sprite_index = spr_player_direita; 
