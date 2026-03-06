@@ -14,8 +14,8 @@
   "exportDir":"",
   "name":"snd_newer_wave",
   "parent":{
-    "name":"runner_clt",
-    "path":"runner_clt.yyp",
+    "name":"sounds",
+    "path":"folders/sounds.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

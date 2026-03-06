@@ -9,8 +9,8 @@
   "name":"obj_musica",
   "overriddenProperties":[],
   "parent":{
-    "name":"runner_clt",
-    "path":"runner_clt.yyp",
+    "name":"objetos",
+    "path":"folders/objetos.yy",
   },
   "parentObjectId":null,
   "persistent":false,
